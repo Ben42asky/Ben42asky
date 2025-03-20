@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Ben42asky
-- 👀 I’m interested in ...Computer
-- 🌱 I’m currently learning ...self learning
-- 💞️ I’m looking to collaborate on ...Tech
-- 📫 How to reach me ...contacnt information ℹ 
-- 😄 Pronouns: ...He
+- 👀 I’m interested in ...Computing
+- 🌱 I’m currently learning ...Cybersecurity and Codding
+- 💞️ I’m looking to collaborate on ...Tech worl and Cybersecurity
+- 📫 How to reach me ...+254 114292224
 - ⚡ Fun fact: ...I love ya'll
 - 
 
