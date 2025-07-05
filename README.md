@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Ben42asky
-- 👀 I’m interested in ...Computing
-- 🌱 I’m currently learning ...Cybersecurity and Codding
-- 💞️ I’m looking to collaborate on ...Tech worl and Cybersecurity
-- 📫 How to reach me ...+254 114292224
-- ⚡ Fun fact: ...I love ya'll
-- 
+# 👋 Hey there, I’m @Ben42asky
 
-<!---
-Ben42asky/Ben42asky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 👨‍💻 Passionate about *Computing, **Tech, and the evolving world of **Cybersecurity*  
+- 🌱 Currently learning: Cybersecurity, Python, HTML, CSS, and JavaScript  
+- 🤝 Open to collaborating on anything tech-related — especially *web projects* and *security systems*
+
+## 💬 Fun & Random
+- ⚡ Fun fact: I code with a smile and love learning with people from around the world  
+- 🎯 Motto: Stay curious, stay secure
+
+## 📬 Let's Connect
+- 📱 WhatsApp: [+254 114 292 224](https://wa.me/254114292224)
+- ✉ Email: Coming soon...
+- 💻 More to come as I grow my GitHub!
+
+---
+
+> "Building, breaking, fixing — one line of code at a time."
