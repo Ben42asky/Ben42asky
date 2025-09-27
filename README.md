@@ -10,7 +10,7 @@
 - 🎯 Motto: Stay curious, stay secure
 
 ## 📬 Let's Connect
-- 📱 WhatsApp: [+254 114 292 224](https://wa.me/254114292224)
+- 📱 WhatsApp: [+254 739086042](https://wa.me/254114292224)
 - ✉ Email: Coming soon...
 - 💻 More to come as I grow my GitHub!
 
