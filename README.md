@@ -11,7 +11,7 @@
 
 ## 📬 Let's Connect
 - 📱 WhatsApp: [+254 739 086 042](https://wa.me/254114292224)
-- ✉ Email: odedebenjamin7@gamil.com
+- ✉ Email: odedebenjamin7@gmail.com
 - 💻 More to come as I grow my GitHub!
 
 ---
